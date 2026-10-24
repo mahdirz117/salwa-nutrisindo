@@ -1,0 +1,8 @@
+{
+  "name": "Salwa Nutrisindo",
+  "description": "Website resmi Salwa Nutrisindo - Produsen cuka buah alami dari Malang seperti cuka apel, lemon, nanas, mengkudu, dan wortel. Informasi produk dan pemesanan via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
